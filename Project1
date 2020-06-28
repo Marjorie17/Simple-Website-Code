@@ -1,0 +1,109 @@
+<!DOCTYPE html>	
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>My Simple Website</title>
+</head>
+<!--Tags for background design-->
+<style type="text/css">
+body{
+	background-image:url(mm.png);
+	background-size: cover;
+	background-attachment: fixed;
+}	
+</style>
+	<img src="me.png" alt="watermark" width="100">
+	<img src="image.jpeg" alt="David&Goliath" width="140" align="right">
+	
+<h2 align="center">							
+	<font face="cinzel" size="3">
+	&nbsp&nbsp;&nbsp;&nbsp;
+		<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="#">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		</br>
+		</br>
+	<h1> David And Goliath Story: Bible Background</h1>
+	</font>
+<!--The summary of the story where have a different tags-->
+<p style="color:black;font-size:14px;margin-right:100px;margin-left:100px;"> In this Bible story, several years had passed since <u>David</u> was anointed by Samuel. King Saul and his army were once again fighting the Philistine.
+ When David arrived at Israelite camp, things began to change. The Philistine were a warlike people who lived along the Mediterranean coast just west of Israel. The Philistine continually raided Israelite territory and tried to expand their national boarders to include the western hill country of Israel.</p>
+<p style="color:black;font-size:14px;margin-right:100px;margin-left:100px;"> The Philistine had a tremendous advantage over Israel because they controlled the <em>iron industry.</em> Most of the iron that was mined, smelted, and used for weapons was controlled by the Philistine. This meant that swords and other iron weapons were often in short supply in Israel.
+During the particular encounter, the Philistine appeared to have another advantage over Israel. They had a giant. <u>Goliath</u> was over nine feet tall. Not only was a he huge, but the armor Goliath wore protected him from most harm.</p>
+<p style="color:black;font-size:14px;margin-right:100px;margin-left:100px;"> This is truly a story of contrast. Goliath was an experienced warrior; David was a shepherd. Goliath was huge; David was small. The Giant wore armor; the boy refused to wear armor. The warrior carried a sword, a spear, and a shield; the shepherd carried a staff, a sling, and five smooth stones. Goliath scoffed at God of Israel; David trusted the God of his fathers.. When the dust of the battle settled, it was apparent to all thet the superhuman strength of the giant Goliath was not an advantage over the Almighty power of God of Israel.</p>
+<p style="color:black;font-size:14px;margin-right:100px;margin-left:100px;"> As we admire David's heroic courage, we need to remember that it was the God of Israel who enabled him to overcome Goliath. This is the same God who is with us today. When we trust in Him, <i>God can enable us to overcome our giants too</i></p>
+</h2>
+<br>
+<br>
+<!--Table tags, to create a table in html document-->
+<body>
+	<table align="center" border="5" bordercolored=blue height="10" width="60%">
+		<th>CAST</th>
+		<th>Role</th>
+		
+		<tr>	
+			<td align="left">Ivica Pajer</td>
+			<td align="left">as David</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Orson Welles</td>
+			<td align="left">as King Saul</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Hilton Edwards</td>
+			<td align="left">as Prophet Samuel</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Massimo Serato</td>
+			<td align="left">as Abner</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Giulia Rubini</td>
+			<td align="left">as Michael</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Pierre Cressoy</td>
+			<td align="left">as Jonathan</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Furio Meniconi</td>
+			<td align="left">as King of the Philistine</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Aldo Pedinotti</td>
+			<td align="left">as Goliath</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Dante Maggio</td>
+			<td align="left">as Cret</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Ugo Sasso</td>
+			<td align="left">as Huro</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Umberto Fiz</td>
+			<td align="left">as Lazar</td>
+		</tr>
+		
+		<tr>	
+			<td align="left">Luigi Tosi</td>
+			<td align="left">as Benjamin of Gaba</td>
+		</tr>	
+	</table>
+</body>
+</html>
+
+	
+	
